@@ -13,7 +13,7 @@ An executive-grade, interactive Power BI report designed to analyse content prof
 
 | Executive View | Filtered Category View | Detail View |
 |---|---|---|
-| ![Executive Dashboard](./images/dashboard_main.png) | ![Filtered Dashboard](./images/dashboard_filtered.png) | ![Detail View](./images/dashboard_detail.png) |
+| ![Executive Dashboard](./dashboard_main.png) | ![Filtered Dashboard](./dashboard_filtered.png) | ![Detail View](./dashboard_detail.png) |
 
 ---
 
