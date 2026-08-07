@@ -57,7 +57,6 @@ The project is structured around a **Star Schema** dimensional model to ensure o
 
 Key business metrics were developed using custom, explicit DAX formulations:
 
-* **Total Revenue:**
   ```dax
   Total Revenue = SUM(Fact_Content_Performance[Revenue])
   Total Profit = [Total Revenue] - SUM(Fact_Content_Performance[Budget])
