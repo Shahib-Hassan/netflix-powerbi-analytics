@@ -13,7 +13,7 @@ An executive-grade, interactive Power BI report designed to analyse content prof
 
 | Executive View | Filtered Category View |
 |---|---|
-| ![Executive Dashboard](https://raw.githubusercontent.com/Shahib-Hassan/netflix-powerbi-analytics/main/images/dashboard_main.png) | ![Filtered Dashboard](https://raw.githubusercontent.com/Shahib-Hassan/netflix-powerbi-analytics/main/images/dashboard_filtered.png) | ![Detail View](https://raw.githubusercontent.com/Shahib-Hassan/netflix-powerbi-analytics/main/images/dashboard_detail.png)
+| ![Executive Dashboard](https://raw.githubusercontent.com/Shahib-Hassan/netflix-powerbi-analytics/main/images/dashboard_main.png) | ![Filtered Dashboard](https://raw.githubusercontent.com/Shahib-Hassan/netflix-powerbi-analytics/main/images/dashboard_filtered.png) | ![Detail View](https://raw.githubusercontent.com/Shahib-Hassan/netflix-powerbi-analytics/main/images/dashboard_detail.png)|
 
 ---
 
